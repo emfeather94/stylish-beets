@@ -45,12 +45,11 @@ blockquote p {
   font-style: italic;
 }
 
+blockquote footer {
+  font-size: 0.8rem;
+}
 ul {
   list-style-type: lower-greek;
-}
-
-body p {
-  font-style: italic;
 }
 
 dl dt {
