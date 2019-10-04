@@ -2,13 +2,11 @@ html {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
   line-height: 1.5;
+  font-size: 1.125rem;
 }
 
 h1, h2 {
   color: #3f1622;
-}
-
-h1 {
   font-family: "PT Sans", sans-serif;
 }
 
@@ -45,4 +43,21 @@ blockquote p {
   text-align: left;
   font-size: 1.5rem;
   font-style: italic;
+}
+
+ul {
+  list-style-type: lower-greek;
+}
+
+body p {
+  font-style: italic;
+}
+
+dl dt {
+  font-weight: bold;
+}
+
+aside ul {
+  font-size: 0.8rem;
+  list-style-type: circle;
 }
