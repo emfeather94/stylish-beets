@@ -19,6 +19,7 @@ main figcaption {
   text-align: center;
   font-style: italic;
 }
+
 nav ol {
   color: #8f2440;
   list-style-type: none;
@@ -48,8 +49,9 @@ blockquote p {
 }
 
 blockquote footer {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
+
 ul {
   list-style-type: lower-greek;
 }
@@ -59,6 +61,6 @@ dl dt {
 }
 
 aside ul {
-  font-size: 0.8rem;
+  font-size: .8rem;
   list-style-type: circle;
 }
