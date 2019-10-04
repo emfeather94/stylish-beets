@@ -1,5 +1,35 @@
 html {
   background-color: #c9b5ab;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5;
+}
+
+h1, h2 {
+  color: #3f1622;
+}
+
+h1 {
+  font-family: "PT Sans", sans-serif;
+}
+
+img {
+  width: 100%;
+}
+
+nav ol {
+  color: #8f2440;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #8f2440;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+
 }
